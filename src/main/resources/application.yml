@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+novu:
+  api-url: http://localhost:3000/v1
+  api-key: 987e974465d86e71dfc701cab628a707
